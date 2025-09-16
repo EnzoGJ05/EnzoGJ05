@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hola, soy Enzo Gutierrez
 
-<!--
-**EnzoGJ05/EnzoGJ05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador Back-End en formación · Python · Node.js · Java
+📍 Buenos Aires, Argentina
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy una persona versátil, dinámica y proactiva, actualmente estudiante de **Ingeniería en Sistemas de Información (UTN)**.
+Me apasiona el **desarrollo back-end**, la gestión de datos y la resolución de problemas mediante la programación.
+Busco mi primera experiencia profesional en IT para seguir aprendiendo y aportar valor en proyectos reales.
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Estadística](https://img.shields.io/badge/Estadística-4B8BBE?style=for-the-badge\&logo=databricks\&logoColor=white)
+![Análisis de Datos](https://img.shields.io/badge/Análisis%20de%20Datos-1D3557?style=for-the-badge\&logo=python\&logoColor=white)
+
+---
+
+## 📚 Educación
+
+* 🎓 **Ingeniería en Sistemas de Información** — UTN FRBA (2025 – Actualidad)
+* 🖥️ **Back-End con Node.js** — Talento Tech (2025 – Actualidad)
+* 🐍 **Programación en Python** — Talento Tech (2025)
+* ☕ **Java SE 7** — IT Master Academy (2019)
+* ⚙️ **Técnico en Computación** — Escuela Técnica Otto Krause (2011 – 2017)
+
+---
+
+## 💼 Experiencia Laboral
+
+**Trabajador Independiente — Transporte de Pasajeros (Monotributista)**
+📍 Buenos Aires | Ene 2023 – Actualidad
+
+* Gestión de ingresos, gastos y facturación bajo régimen de Monotributo.
+* Atención directa a clientes, brindando un servicio seguro y responsable.
+* Resolución de imprevistos y toma de decisiones en situaciones dinámicas.
+* Organización del tiempo y planificación de recorridos eficientes.
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+* Profundización en desarrollo **Back-End** con Node.js
+* Buenas prácticas de **bases de datos relacionales**
+* Desarrollo de proyectos colaborativos con Git/GitHub
+
+---
+
+## 🌐 Contacto
+
+[![Email](https://img.shields.io/badge/Email-gutierrezenzoj%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gutierrezenzoj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Gutierrez-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gutierrezenzoj/)
+[![GitHub](https://img.shields.io/badge/GitHub-EnzoGJ05-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/EnzoGJ05)
+
+---
+
+⚡ *Abierto a oportunidades como **Desarrollador Junior / Back-End** o proyectos colaborativos.*
