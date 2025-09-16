@@ -5,11 +5,11 @@
 
 ---
 
-## 🚀 Sobre mí
-
-Soy una persona versátil, dinámica y proactiva, actualmente estudiante de **Ingeniería en Sistemas de Información (UTN)**.
-Me apasiona el **desarrollo back-end**, la gestión de datos y la resolución de problemas mediante la programación.
-Busco mi primera experiencia profesional en IT para seguir aprendiendo y aportar valor en proyectos reales.
+## 🚀 Sobre mí  
+Estudiante de Ingeniería en Sistemas de Información con enfoque en desarrollo Back-End.  
+Tengo capacidad de aprendizaje constante y disfruto trabajar aplicando nuevas tecnologías para resolver problemas reales.  
+Estoy profundizando mis conocimientos en Python, Node.js y Java, además de bases de datos como SQLite y Oracle.  
+Busco crecer profesionalmente en roles de Back-End Junior o colaborar en proyectos donde pueda aportar y seguir desarrollándome.
 
 ---
 
